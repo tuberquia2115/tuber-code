@@ -7,7 +7,7 @@ function App() {
       <a href="https://github.com/tuberquia2115" target="_blank">
         <img src={logoFronted} className="logo react" alt="Logo Frontend-developer" />
       </a>
-      <h1>Portafolio Jose Manuel Graciano Tuberquia</h1>
+      <h1>Portafolio Jose Manuel Graciano Tuberquia tuber/code</h1>
     </div>
   );
 }
