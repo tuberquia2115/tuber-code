@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div>
+      <h2>Frontend Developer</h2>
       <a href="https://github.com/tuberquia2115" target="_blank">
         <img src={logoFronted} className="logo react" alt="Logo Frontend-developer" />
       </a>
